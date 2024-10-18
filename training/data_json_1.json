@@ -1,0 +1,122 @@
+[
+  {
+    "path": "video_1.mp4",
+    "cap": [
+      "A white van is parked in a desert landscape with people loading gear near its open doors."
+    ],
+    "resolution": {
+      "height": 720,
+      "width": 1280
+    },
+    "num_frames": 146,
+    "fps": 48
+  },
+  {
+    "path": "video_2.mp4",
+    "cap": [
+      "A bird stands on a rocky shore at sunset, silhouetted against a calm lake."
+    ],
+    "resolution": {
+      "height": 720,
+      "width": 1280
+    },
+    "num_frames": 182,
+    "fps": 60
+  },
+  {
+    "path": "video_3.mp4",
+    "cap": [
+      "A rocky coastline overlooks a calm sea at sunset, with a distant boat visible on the horizon."
+    ],
+    "resolution": {
+      "height": 720,
+      "width": 1280
+    },
+    "num_frames": 182,
+    "fps": 60
+  },
+  {
+    "path": "video_4.mp4",
+    "cap": [
+      "An illuminated ancient tower stands out against a night sky with a crescent moon above."
+    ],
+    "resolution": {
+      "height": 720,
+      "width": 1280
+    },
+    "num_frames": 78,
+    "fps": 25
+  },
+  {
+    "path": "video_5.mp4",
+    "cap": [
+      "Two people riding horses in a mountain landscape with snow-capped peaks in the background."
+    ],
+    "resolution": {
+      "height": 720,
+      "width": 1280
+    },
+    "num_frames": 182,
+    "fps": 60
+  },
+  {
+    "path": "video_6.mp4",
+    "cap": [
+      "A person stands on a viewing platform overlooking a vast mountain landscape at sunset."
+    ],
+    "resolution": {
+      "height": 720,
+      "width": 1280
+    },
+    "num_frames": 77,
+    "fps": 25
+  },
+  {
+    "path": "video_7.mp4",
+    "cap": [
+      "A person wearing an apron with the words ECO FRIENDLY holds fresh green lettuce leaves."
+    ],
+    "resolution": {
+      "height": 720,
+      "width": 1280
+    },
+    "num_frames": 92,
+    "fps": 30
+  },
+  {
+    "path": "video_8.mp4",
+    "cap": [
+      "A person wearing an apron is pouring batter from a large metal bowl into a round baking pan on a kitchen counter."
+    ],
+    "resolution": {
+      "height": 720,
+      "width": 1280
+    },
+    "num_frames": 74,
+    "fps": 24
+  },
+  {
+    "path": "video_9.mp4",
+    "cap": [
+      "A mug and reading glasses sit on an open book by a rain-streaked window."
+    ],
+    "resolution": {
+      "height": 720,
+      "width": 1280
+    },
+    "num_frames": 77,
+    "fps": 25
+  },
+  {
+    "path": "video_10.mp4",
+    "cap": [
+      "A person wearing a hat and patterned poncho stands next to a horse, facing a large fire in a forest setting."
+    ],
+    "resolution": {
+      "height": 720,
+      "width": 1280
+    },
+    "num_frames": 74,
+    "fps": 24
+  }
+]
