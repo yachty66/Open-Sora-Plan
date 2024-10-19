@@ -1,10 +1,11 @@
-1. make it possible to push to github inside the VM
-1. make a simple 30 minutes fine tune with some example data
-2. add a download.sh file for setting up the model
-3. save the ready trained checkpoint to huggingface 
-4. use the checkpoint for an image generation
-
-
-dataset: --data "scripts/train_data/merge_data.txt" \
-
-what does the data has to look like?
+- [ ] make script which directly downloads models directly and changes traninfg script into the right format
+    - 
+- [ ] start a trainig run with my test data 
+- [ ] if the training run finishes save the resulting model to huggingface and then run this model on inference
+- [ ] 
+- []
+- []
+- []
+- []
+- []
+- []
